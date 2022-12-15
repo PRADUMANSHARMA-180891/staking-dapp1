@@ -1,0 +1,48 @@
+
+.linkbb{
+    color: rgb(255, 255, 255);
+    background-color: rgb(145, 145, 145);
+    font-weight: 400;
+    text-align: bold;
+    margin-right: 3%;
+    border-radius: 12px;
+    transition: 0.5s;
+    border: 1px solid rgb(170, 165, 165);
+    background-image: linear-gradient(to right,rgb(12, 12, 12),rgb(63, 59, 80));
+    padding: 12% 25%;
+
+    
+
+    
+}
+.linkbb:hover{
+    font-size: large;
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(to left,rgb(12, 12, 12),rgb(63, 57, 57));
+
+}
+.bas{
+    /* background-color: #222121; */
+    padding-top: 1%;
+    /* background-image: linear-gradient(to right,rgb(8, 45, 80),rgb(19, 9, 59)); */
+}
+
+/* .borderof{
+    border: 2px solid rgb(85, 15, 177);
+    border-radius: 12px;
+    background-image: linear-gradient(to top left,rgb(14, 15, 15),rgb(22, 5, 71));
+} */
+.mainpbutton{
+    
+    background:rgba(230, 230, 230, 0.3);
+    border-radius: 20px;
+    padding: 2%;
+    padding-left: 7%;
+    padding-right: 7%;
+    box-shadow: 0 35px 80px rgba(0, 0, 0, 0.15);
+    border: 1px solid rgb(223, 219, 219);
+    color: rgb(204, 194, 194);
+    background-image: linear-gradient(to right,rgb(120, 53, 151),rgb(26, 22, 22));
+    transition: 0.2s;
+    font-family: 'Bai Jamjuree', sans-serif;
+   }
